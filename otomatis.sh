@@ -2,7 +2,7 @@
 
 read -p "Tuliskan nama script yang mau lu buat:  " nama
 
-read -p "Tuliskan judul script yang mau  lu buat: " judul
+read -p "Tuliskan judul script yang mau lu buat: " judul
 
 touch ${nama}.sh
 
@@ -16,4 +16,4 @@ echo "# ------------------------------------------------------------------------
 
 chmod +x ${nama}.sh
 
-echo "Beres Bos! ${nama}.sh udah jadi! Tinggal lu edit ye ..."
+echo "Beres Bos! ${nama}.sh udah jadi! Tinggal lu edit ye..."
