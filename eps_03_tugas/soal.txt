@@ -1,0 +1,13 @@
+Tugas 1
+
+- Buatlah 2 buah file dengan ekstensi .txt : "1.txt" dan "2.txt"
+- Di dalam file "1.txt" tuliskan konten dari pwd kalian dalam format list panjang.
+- Tanyakan kepada user awalan  nama  file yang dia inginkan pada file "1.txt".
+- Ubahlah nama file "1.txt" dengan menambahkan awalan yang dipilih oleh user.
+
+
+
+
+Tugas 2
+
+- Buatlah sebuah script yang dapat membuat form baku script bash yang dapat dinamakan oleh user. 

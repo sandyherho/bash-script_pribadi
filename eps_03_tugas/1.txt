@@ -1,0 +1,34 @@
+total 56
+-rw-rw-r-- 1 sandyherho sandyherho    0 Mei 14 17:05 1.txt
+-rw-rw-r-- 1 sandyherho sandyherho    0 Mei 14 17:05 2.txt
+-rwxrwxrwx 1 sandyherho sandyherho  441 Mei  9 08:22 cek_root.sh
+-rwxrwxrwx 1 sandyherho sandyherho   99 Mei  9 08:22 close_usb.sh
+-rwxrwxrwx 1 sandyherho sandyherho   37 Mei  9 08:22 contoh.sh
+-rwxr--r-- 1 root       root        217 Mei 13 19:44 eps_01_hello_friend.sh
+-rwxr--r-- 1 root       root        169 Mei 13 20:04 eps_02_read.sh
+drwxrwxr-x 2 sandyherho sandyherho 4096 Mei 14 17:01 eps_03_tugas
+-rwxrwxrwx 1 sandyherho sandyherho   79 Mei  9 08:22 hari1.sh
+-rwxrwxrwx 1 sandyherho sandyherho  139 Mei  9 08:22 hari2.sh
+-rwxrwxrwx 1 sandyherho sandyherho  210 Mei  9 08:22 hari3.sh
+-rwxrwxrwx 1 sandyherho sandyherho 1067 Mei  9 08:22 LICENSE
+-rwxrwxrwx 1 sandyherho sandyherho  159 Mei  9 08:22 open_usb.sh
+-rwxrwxrwx 1 sandyherho sandyherho   96 Mei  9 08:22 README.md
+-rwxrwxr-x 1 sandyherho sandyherho  133 Mei 14 17:05 si.sh
+-rwxrwxrwx 1 sandyherho sandyherho  574 Mei  9 08:22 sysinfo.sh
+total 60
+-rw-rw-r-- 1 sandyherho sandyherho 1029 Mei 14 17:08 1.txt
+-rw-rw-r-- 1 sandyherho sandyherho    0 Mei 14 17:08 2.txt
+-rwxrwxrwx 1 sandyherho sandyherho  441 Mei  9 08:22 cek_root.sh
+-rwxrwxrwx 1 sandyherho sandyherho   99 Mei  9 08:22 close_usb.sh
+-rwxrwxrwx 1 sandyherho sandyherho   37 Mei  9 08:22 contoh.sh
+-rwxr--r-- 1 root       root        217 Mei 13 19:44 eps_01_hello_friend.sh
+-rwxr--r-- 1 root       root        169 Mei 13 20:04 eps_02_read.sh
+drwxrwxr-x 2 sandyherho sandyherho 4096 Mei 14 17:01 eps_03_tugas
+-rwxrwxrwx 1 sandyherho sandyherho   79 Mei  9 08:22 hari1.sh
+-rwxrwxrwx 1 sandyherho sandyherho  139 Mei  9 08:22 hari2.sh
+-rwxrwxrwx 1 sandyherho sandyherho  210 Mei  9 08:22 hari3.sh
+-rwxrwxrwx 1 sandyherho sandyherho 1067 Mei  9 08:22 LICENSE
+-rwxrwxrwx 1 sandyherho sandyherho  159 Mei  9 08:22 open_usb.sh
+-rwxrwxrwx 1 sandyherho sandyherho   96 Mei  9 08:22 README.md
+-rwxrwxrwx 1 sandyherho sandyherho  574 Mei  9 08:22 sysinfo.sh
+-rwxrwxr-x 1 sandyherho sandyherho  152 Mei 14 17:07 tugas01.sh
