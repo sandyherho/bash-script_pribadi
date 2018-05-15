@@ -8,9 +8,15 @@ touch ${nama}.sh
 
 echo "#!/bin/bash" >> ${nama}.sh
 
+echo " " >> ${nama}.sh
+
 echo "# ${judul} " >> ${nama}.sh
 
+echo " " >> ${nama}.sh
+
 echo "###### Ini Merupakan Program Pembuat Script Otomatis ######" >> ${nama}.sh
+
+echo " " >> ${nama}.sh
 
 echo "# ----------------------------------------------------------------------------------------------------" >> ${nama}.sh
 
