@@ -1,0 +1,9 @@
+Proyek 1: Cari Nama Jokowi Dalam 1 Folder
+
+1. Dalam sebuah folder cari seluruh file yang memuat sebuah kata yang kita kehendaki,
+dalam hal ini kata jokowi.
+
+2. Buat sebuah folder dan kopi seluruh file yang memuat kata jokowi ke dalam folder ini.
+
+3. Pada akhir setiap file yang dikopi tersebut tambahkan nomor baris di mana kita menemukan kata "Jokowi".
+
